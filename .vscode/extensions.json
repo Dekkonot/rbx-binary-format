@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "sumneko.lua",
+        "davidanson.vscode-markdownlint"
+    ]
+}

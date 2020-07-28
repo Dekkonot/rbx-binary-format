@@ -1,0 +1,12 @@
+{
+    "Lua.runtime.version": "Lua 5.2",
+    "Lua.diagnostics.enable": true,
+    "[lua]": {
+        "editor.rulers": [
+            120
+        ]
+    },
+    "Lua.diagnostics.severity": {
+        "trailing-space": "Warning"
+    }
+}

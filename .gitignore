@@ -1,0 +1,9 @@
+# Debug output 
+chunkData/**
+
+# Debug files
+*.lz4
+
+# Test files
+output.txt
+output.rbxm
