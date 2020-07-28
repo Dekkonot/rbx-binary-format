@@ -38,6 +38,7 @@ Reading binary files should work without any problems so long as all properties 
 | `Color3uint8`        | Yes       | No      |
 | `int64`              | Partial\* | No      |
 | `SharedString`       | Yes       | No      |
+
 \* All Lua numbers are double so unfortunately `int64` will always be partially supported.
 
 ## Reading
