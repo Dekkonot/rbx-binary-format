@@ -29,6 +29,7 @@ local types = {
     [0x1b] = require("datatypes.codecs.int64"),
     [0x1c] = require("datatypes.codecs.sharedstring"),
     [0x1d] = require("datatypes.codecs.bytecode"),
+    [0x1e] = require("datatypes.codecs.cframe")
 }
 
 setmetatable(types, {
